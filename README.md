@@ -148,8 +148,6 @@ Classic references related to the topic:
 AI usage in this project:
 
 - AI was used for documentation support and README writing.
-- It was used to review the repository structure, summarize how each import example works, and produce bilingual English/Japanese explanations.
-- The README was aligned with the existing code under `alchemy/` and the four `ft_*.py` scripts, while the implementation itself should still be reviewed manually and understood for evaluation.
 
 ### 日本語
 
